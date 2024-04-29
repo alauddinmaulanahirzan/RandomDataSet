@@ -1,0 +1,1 @@
+Contain Random Dataset Created Randomly with NO ACCURACY OR CORRECTNESS! Feel Free to use this data for Learning about Machine Learning or Other. Please dont use this as your training base if you want to implement a model that has specific purpose. ONLY FOR LEARNING.
